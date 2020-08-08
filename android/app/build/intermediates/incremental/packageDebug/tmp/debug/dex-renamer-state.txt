@@ -1,0 +1,4 @@
+#Sat Aug 08 11:58:03 BRT 2020
+base.0=/home/bruno/Documents/Dev/bootcamp_rocket2/mobile_reactNative/mobile/desafio04/gostack-template-conceitos-react-native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
